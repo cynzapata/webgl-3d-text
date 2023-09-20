@@ -2,7 +2,9 @@
 
 The code is used to practice making 3d text, objects, and textures with webggl, vite, and three.js
 
-The product can be seen at: https://vercel.com/cynzapata/webgl-3d-text
+The product can be seen at: https://webgl-3d-text-three-sigma.vercel.app/
+
+or if you have a Vercel account: https://vercel.com/cynzapata/webgl-3d-text
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
