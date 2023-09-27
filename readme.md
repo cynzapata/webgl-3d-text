@@ -1,6 +1,6 @@
 # Three.js Journey
 
-The code is used to practice making 3d text, objects, and textures with webggl, vite, and three.js
+Used webggl, vite, and three.js, javascript, html, css, and Node.js to create 3d text, objects, and textures.
 
 The product can be seen at: https://webgl-3d-text-three-sigma.vercel.app/
 
